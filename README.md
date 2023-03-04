@@ -4,7 +4,7 @@ This repository contains code examples and explanations for the SOLID principles
 
 ## What are the SOLID Principles?
 
-The SOLID principles are a set of guidelines that can help developers create more maintainable, flexible, and scalable software applications. The principles were introduced by Robert C. Martin in his 2000 paper, "Design Principles and Design Patterns," and the acronym SOLID was coined by Michael Feathers. 
+The SOLID principles are a set of guidelines that can help developers create more maintainable, flexible, reusable and scalable software applications. The principles were introduced by Robert C. Martin in his 2000 paper, "Design Principles and Design Patterns," and the acronym SOLID was coined by Michael Feathers. 
 
 The SOLID principles are as follows:
 
