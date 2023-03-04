@@ -16,7 +16,7 @@ The SOLID principles are as follows:
 
 ## Examples
 
-This repository contains code examples that demonstrate each of the SOLID principles. Each example is located in a separate directory and includes a README file that explains the principle.
+This repository contains code examples that demonstrate each of the SOLID principles. Each example is located in a separate directory and includes a README file that explains the principle and example and how it relates to the SOLID principle it demonstrates.
 
 ## Contributing
 
