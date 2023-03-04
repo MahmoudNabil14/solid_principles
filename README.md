@@ -1,6 +1,6 @@
 # SOLID Principles
 
-This repository contains code examples and explanations for the SOLID principles in object-oriented programming. 
+This repository contains dart code examples and explanations for the SOLID principles in object-oriented programming. 
 
 ## What are the SOLID Principles?
 
