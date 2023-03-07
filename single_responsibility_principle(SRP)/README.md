@@ -10,7 +10,7 @@ The SRP is important because it helps developers create code that is more mainta
 
 A violation of the SRP can lead to code that is difficult to maintain and modify. When a class has multiple responsibilities, changes to one responsibility can inadvertently affect the other responsibilities. This can make it difficult to understand the behavior of the code and can lead to unintended consequences. 
 
-For example, consider a class that manages both shopping cart and invouce. This class violates the SRP because it has multiple responsibilities that are not related. If a change is made to the shopping cart logic, it could inadvertently affect the invoice logic and vice versa. This can lead to bugs and unexpected behavior in the code. 
+For example, consider a class that manages both shopping cart and invoice. This class violates the SRP because it has multiple responsibilities that are not related. If a change is made to the shopping cart logic, it could inadvertently affect the invoice logic and vice versa. This can lead to bugs and unexpected behavior in the code. 
 
 ## Conclusion
 
